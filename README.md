@@ -7,4 +7,4 @@ Anotações das aulas de Python na UFPR, curso de especialização em Inteligenc
 
 # Anotações
 
-[text](https://www.kaggle.com/datasets)
+[Kaggle](https://www.kaggle.com/datasets)
